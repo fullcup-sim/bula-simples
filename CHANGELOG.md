@@ -8,3 +8,4 @@
 - 2026-05-25: Resumo em linguagem simples
 - 2026-05-26: Resumo em linguagem simples
 - 2026-06-09: Alerta de interação entre remédios
+- 2026-06-10: Alerta de interação entre remédios
