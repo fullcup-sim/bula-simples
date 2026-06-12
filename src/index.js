@@ -10,3 +10,4 @@ module.exports.descricao = "Bula de remédio reescrita em linguagem simples, com
 // 2026-06-09T11:38:00Z Alerta de interação entre remédios
 // 2026-06-10T11:47:00Z Alerta de interação entre remédios
 // 2026-06-11T16:15:00Z Alerta de interação entre remédios
+// 2026-06-12T14:59:00Z Alerta de interação entre remédios
