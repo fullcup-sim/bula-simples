@@ -11,3 +11,4 @@
 - 2026-06-10: Alerta de interação entre remédios
 - 2026-06-11: Alerta de interação entre remédios
 - 2026-06-12: Alerta de interação entre remédios
+- 2026-06-25: Leitura em voz alta
