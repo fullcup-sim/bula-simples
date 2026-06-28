@@ -14,3 +14,4 @@ module.exports.descricao = "Bula de remédio reescrita em linguagem simples, com
 // 2026-06-25T15:53:00Z Leitura em voz alta
 // 2026-06-26T11:45:00Z Leitura em voz alta
 // 2026-06-27T09:53:00Z Leitura em voz alta
+// 2026-06-28T17:01:00Z Leitura em voz alta
