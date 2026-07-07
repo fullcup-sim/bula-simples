@@ -15,3 +15,4 @@
 - 2026-06-26: Leitura em voz alta
 - 2026-06-27: Leitura em voz alta
 - 2026-06-28: Leitura em voz alta
+- 2026-07-07: manutencao
