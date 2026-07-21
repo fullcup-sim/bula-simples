@@ -31,3 +31,4 @@ module.exports.descricao = "Bula de remédio reescrita em linguagem simples, com
 // 2026-07-20T17:45:00Z manutencao
 // 2026-07-20T16:59:00Z manutencao
 // 2026-07-21T14:24:00Z manutencao
+// 2026-07-21T10:50:00Z manutencao
